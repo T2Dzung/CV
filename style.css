@@ -1,0 +1,30 @@
+body{
+    background-color: #EEEEEE;
+}
+hr{
+    border-style: none;
+    width:10%;
+    border-top: 3px dotted #393E46;
+    opacity: 0.5;
+}
+h1{
+    color: #00ADB5;
+}
+h3{
+    color: #00ADB5;
+}
+p{
+    color: #222831;
+}
+table{
+    color: #222831;
+}
+ul{
+    color: #222831;
+}
+a{
+    color: #222831;
+}
+a:hover{
+    color:#00ADB5;
+}
